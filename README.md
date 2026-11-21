@@ -1,66 +1,65 @@
 <div align="center">
 
-![Abu Haraira | Indie Comic Studio](assets/01-comic-banner.png)
+![Abu Haraira — Retro Arcade Game Developer](assets/01-arcade-banner.svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-AbuHaraira2914-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/AbuHaraira2914)
-![Profile views](https://komarev.com/ghpvc/?username=AbuHaraira2914&label=Profile+Views&color=159895&style=flat-square)
-
-**🎮 Unity Game Developer • C# • Mobile Games • Learning Cloud**
-
-*Learning by building. One game mechanic at a time.*
+![Profile views](https://komarev.com/ghpvc/?username=AbuHaraira2914&style=flat-square&color=ff5a9d&label=ARCADE+VISITS)
+[![GitHub](https://img.shields.io/badge/GITHUB-AbuHaraira2914-53E9FF?style=for-the-badge&logo=github&logoColor=111629)](https://github.com/AbuHaraira2914)
 
 </div>
 
-<table><tr><td width="50%" valign="top"><img src="assets/02-about-me.png" alt="Comic About Me panel" width="100%" /></td><td width="50%" valign="top"><img src="assets/03-tech-stack.png" alt="Comic tech stack panel" width="100%" /></td></tr></table>
+![Player Select — About Me](assets/02-player-card.svg)
 
-### 🎯 Current quests
+I'm **Abu Haraira**, a Unity game developer interested in **mobile gameplay, game systems, and creative problem-solving**. I enjoy building with **C#** and exploring **AWS/cloud technologies** as a learning goal.
 
-- 🎮 Build fun interactive experiences with **Unity and C#**.
-- 📱 Improve mobile gameplay systems and user interfaces.
-- 🛠️ Practice clean C# code, optimization, and debugging.
-- ☁️ Explore how AWS and cloud services can support games.
-
-### 🧩 Project ideas & experiments
-
-![Comic project concepts](assets/04-project-concepts.png)
-
-> **Concept art only:** These are examples of projects and experiments to showcase in the future, **not links to published repositories**. I'll add public project links, gameplay captures and source details as they become available.
-
-### 📊 GitHub activity
+![Tech and Tools](assets/03-loadout.svg)
 
 <div align="center">
 
-![Abu Haraira's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbuHaraira2914&show_icons=true&theme=default&hide_border=true)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuHaraira2914&layout=compact&theme=default&hide_border=true)
+![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-111111?style=flat-square&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AWS Learning](https://img.shields.io/badge/AWS-Learning-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 </div>
 
-> Stats use an external service and may occasionally be unavailable. Language percentages reflect public repositories, not overall developer proficiency.
-
-### 🏅 Skill paths
-
-![Illustrated skill paths: Unity learner, gameplay builder, problem solver, cloud explorer](assets/05-skill-achievements.png)
-
-*Illustrative skill themes — not certification claims or automatically unlocked achievements.*
-
-### 🗺️ My Developer Journey — animated map
+### 🏆 HIGH SCORES // LIVE GITHUB STATS
 
 <div align="center">
 
-![Animated Indie Comic Developer Journey Map with moving YOU marker](assets/journey-map-animated.gif)
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=AbuHaraira2914&show_icons=true&theme=tokyonight&hide_border=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuHaraira2914&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
-The little marker travels along a comic-style learning path, from practicing C# and Unity to building and sharing games. This is a custom decorative animation, **not** a GitHub contribution counter.
+![Future Projects](assets/04-mission-select.svg)
 
-### 🤝 Multiplayer lobby — connect
+> **Project slots are placeholders, not links to finished repositories.** I'll add my real Unity projects, playable builds, screenshots and code samples here as they become public.
 
-[![GitHub Profile](https://img.shields.io/badge/Follow_on_GitHub-AbuHaraira2914-24292f?style=for-the-badge&logo=github)](https://github.com/AbuHaraira2914)
-
-<!-- Add your real LinkedIn and email URLs here when ready; do not publish placeholder contact details. -->
+![Developer Journey](assets/05-journey-heading.svg)
 
 <div align="center">
 
-**NEXT QUEST: KEEP LEARNING • KEEP BUILDING • KEEP PLAYING** 🎮
+![Animated pixel-art game developer progressing across a learning journey map](assets/journey-map-animated.gif)
+
+*An original looping pixel-art journey animation — not a contribution snake or real-time progress tracker.*
 
 </div>
+
+![Achievements and Goals](assets/06-achievements.svg)
+
+These are **learning themes**, not verified certifications or earned trophies. I'm focused on improving in Unity, C#, debugging, and exploring cloud services.
+
+### 🎮 MULTIPLAYER LOBBY // CONNECT
+
+<div align="center">
+
+[![Follow on GitHub](https://img.shields.io/badge/GitHub-FOLLOW-53E9FF?style=for-the-badge&logo=github&logoColor=111629)](https://github.com/AbuHaraira2914)
+
+<!-- Add a verified LinkedIn link here when available. -->
+
+</div>
+
+![Game Over? Not Yet](assets/07-footer.svg)
